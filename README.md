@@ -16,5 +16,3 @@ A new Flutter project.
 
 5. Penambahan gambar dilakukan dengan menggunakan widget Image.asset pada bagian atas layout. Gambar diambil dari folder images di dalam proyek dengan path 'images/petik strawberry.jpg'. Widget ini juga diatur lebar, tinggi, dan fit-nya agar gambar tampil proporsional dan sesuai dengan desain aplikasi.
 ![screnshoot new project](images/05.png) 
-
-6. 
